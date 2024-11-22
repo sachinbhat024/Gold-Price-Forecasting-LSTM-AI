@@ -1,4 +1,4 @@
-# Gold Price Forecasting using LSTM RNN 💰📈
+# Gold Price Forecasting using LSTM 💰📈
 This project focuses on forecasting gold prices in USD for a gold trading company to help optimize trading strategies and future investments. By providing accurate predictions, the company can decide the best times to buy or sell gold, reducing risks and boosting profits. Being able to forecast price movements up to 14 days ahead offers a valuable advantage in the often unpredictable gold market.
 
 The dataset contained daily gold prices in six currencies (USD, EUR, GBP, INR, AED, CNY) from 1985 to 2023. These currencies reflect global market trends and factors that influence gold prices, allowing the model to capture a wide range of economic influences.
